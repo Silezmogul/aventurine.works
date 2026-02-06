@@ -6,6 +6,8 @@ lang: en
 timezone: Europe/Warsaw
 permalink: pretty
 
+theme: aventurine-theme
+
 plugins:
   - jekyll-sitemap
   - jekyll-feed
