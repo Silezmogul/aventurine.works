@@ -1,0 +1,30 @@
+title: Aventurine
+description: Public, non-commercial commons for practical organizational movement and decision-making.
+url: https://aventurine.works
+baseurl: ""
+lang: en
+timezone: Europe/Warsaw
+permalink: pretty
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
+
+feed:
+  path: feed.xml
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+
+exclude:
+  - docs
+  - scripts
+  - .githooks
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - .ruby-version
+  - .mdlrc
