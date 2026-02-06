@@ -5,7 +5,7 @@ baseurl: ""
 lang: en
 timezone: Europe/Warsaw
 permalink: pretty
-author: sebastian rudnicki
+author: Sebastian Rudnicki
 
 theme: aventurine-theme
 
