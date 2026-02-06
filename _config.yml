@@ -1,10 +1,11 @@
 title: Aventurine
-description: Public, non-commercial commons for practical organizational movement and decision-making.
+description: Public definition of Aventurine organization and aventurine in organizational context.
 url: https://aventurine.works
 baseurl: ""
 lang: en
 timezone: Europe/Warsaw
 permalink: pretty
+author: sebastian rudnicki
 
 theme: aventurine-theme
 
