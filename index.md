@@ -123,4 +123,4 @@ ___
 Strona: © Sebastian Rudnicki
 Autor: © Sebastian Rudnicki
 Licencja: Creative Commons Attribution 4.0 (CC BY 4.0)
-Autor zastrzega sobie prawo do dalszego rozwijania i zmiany treści.
+AuThe author reserves the right to further develop and modify the content.
