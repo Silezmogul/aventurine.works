@@ -16,7 +16,7 @@ teaches:
   - "reducing cost, waste, risk, and abuse by addressing Green-stage tensions and ethical boundary overreach"
 ---
 
-# Awenturyn: The Missing Level in Organizational Development Theory
+# Aventurine: The Missing Level in Organizational Development Theory
 
 Since the pubication of "Reinventing Organizations" by Frederic Laloux, 12 years already passed. During this time, Teal became widely known and strong term. But it mainly exists in "I heard about it, it's not for me" plane. Because it either is about forfeiting ownership, or the ammount of stories how things failed during the adoption.
 
