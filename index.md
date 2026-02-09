@@ -16,7 +16,7 @@ teaches:
   - "reducing cost, waste, risk, and abuse by addressing Green-stage tensions and ethical boundary overreach"
 ---
 
-# The missing link
+# Awenturyn: The Missing Level in Organizational Development Theory
 
 Since the pubication of "Reinventing Organizations" by Frederic Laloux, 12 years already passed. During this time, Teal became widely known and strong term. But it mainly exists in "I heard about it, it's not for me" plane. Because it either is about forfeiting ownership, or the ammount of stories how things failed during the adoption.
 
@@ -27,7 +27,7 @@ It is true that teal is not for everyone. It is true that Teal has low adoption 
 That's why low success rate in Teal adoption and its bad general opinion is due to a missing link. A link that is "the type" of majority, that is pleasant to identify with, that does not change organizations but leps make less costly mistakes, that fixes instead of adding more things to fix.
 
 
-## Unnamed problem of teal through the looking glass
+## Different interpretations of teal in practice
 
 Teal in organizational sense is widely (not by definition) understood as departure from ownership, hierarchy and reaching quotas.
 
@@ -43,7 +43,7 @@ In practice, teal mens different things for different people.
 Past these 12 years Teal became a term to be avoided.
 
 
-## The issue of the Teal
+## Enhancing safety and efficiency in organizations without implementing teal
 
 Teal attracts, being interpreted as an ideal.
 
@@ -66,7 +66,7 @@ Without that missing link, adoption of teal implodes. Without that missing link,
 
 The work on that boundary, balance of use of all already fuctioning levels I call Aventurine.
 
-## Why Aventurine? 
+## The origin of the name Aventurine 
 
 Aventurine comes from italian *a ventura* or *all'avventura", referring to an adventure. Refers to an accidental discovery of a shining form of glass that resulted from mixing copper chips with glass.
 
@@ -85,7 +85,7 @@ Aventurine, as a level, I see before teal, inspired by Reinventing Organizations
 Aventurine is not just about using different levels as Yellow level describes. It is not about employer ownership, nor it defines "evolutionary purpose". Aventurine works out the constructive and ethical boundary of each naturally functioning levels as tools.
 
 
-## Green, Aventurine and teal
+## Green, Aventurine, and Teal: Comparing organizational levels
 
 Green is ecology, psychological safety, consensus and pro-consumerism. Just as it is about crossing ethical boundaries by end that justifies means. In its inclusivity it rejects people that think different. Or when ecology becomes a double standard, mechanism of starvation of energetical sovereignty of certain countries.
 
@@ -94,7 +94,7 @@ Aventurine is conscious work on what is ethical in green and what is not. What i
 Teal is paradigm shift from classical and progressive organizations to holocracy, evolutionary goal or employee ownership.
 
 
-## Aventurine organization
+## Aventurine Organization: Practical applications
 
 Organization, which works on many levels, focused on their balance. Caring for security, motivation, structure, income, social mechanisms, watching out for not letting these levels go out of balance or argue with each other, in a systematic way.
 
@@ -102,7 +102,7 @@ Organization, which culturally helps employees use different levels but foremost
 
 Organization, which raises its culture and system, rewards people who get better at it. Capitalises on balance and holistic gain.
 
-## Aventurine being
+## The Aventurine Individual: Traits and practices
 
 Strives to success constructively. Does not use violence, pressure, or social pressure where they lack an argument.
 
@@ -119,7 +119,7 @@ Multiplies cooperation without loss of performance through unconstructive intern
 Uses different levels as tools, without preaching superiority of particular level or depreciation of other levels.
 
 
-## Aventurine as a public space
+## Aventurine as a public educational space
 
 I believe that forms like Teal or Aventurine in organizational context should serve public, not as a private trademark.
 
