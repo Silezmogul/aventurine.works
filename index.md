@@ -40,7 +40,6 @@ In practice, teal mens different things for different people.
 - For some people it's an "imperfect ideal", sounds good in theory but it's not sticking in practice.
 - For some people it's an argument to do what works. Because it works for them. To not do it in a way they could not work.
 - For some people it's an organizational change that was not a part of a discussion during hiring process and earlier years of work.
-- For some people it's a vehicle for business, marketing, financial gain, even as a trademark.
 - For some people it's an unfulfilled promise. Disappointment and pain steming from hierarchies that emerged anyway, winning loudest arguments, personal interests, or lack of commitment. 
 
 Past these 12 years Teal became a term to be avoided.
@@ -54,7 +53,7 @@ Past these years I obzerved how we've been fed and we fed each other definitions
 
 Departure from hierarchy and setting evolutionary goal became food for chaos, unhealthy behaviors and loss.
 
-That's why I think that we first need to focus on not making mistakes within classic orgatizations.
+That's why I think that we first need to focus on not making mistakes within traditionally managed organizations.
 
 This means abbong others:
 Internal competition without pushing.
@@ -65,7 +64,7 @@ Ecology without it being used as mechanism of oppression, like double standards 
 
 Focus on the balance of **boundary** of the individual level, at each level (not across levels) is the missing link.
 
-Without that missing link, adoption of teal implodes. Without that missing link, classic organizations continue to make the same mistakes.
+Without that missing link, adoption of teal implodes. Without that missing link, traditionally managed organizations continue to make the same mistakes.
 
 The work on that boundary, balance of use of all already fuctioning levels I call Aventurine.
 
@@ -81,7 +80,7 @@ Aventuric flicker means shining of individual flakes in a noble way, in differen
 
 Therefore, not by accident, aventurine in context of an organization is to me a noble, colorful, balanced flicker and happiness of people within, which, like an eventurine stone, does not have to change to something it is not, to shine together.
 
-## Aventurine
+## Aventurine for traditionally managed organizations, befere considering teal
 
 Aventurine, as a level, I see before teal, inspired by Reinventing Organizations, AQAL or Spiral Dynamics. It describes a level and approach for stability, which is a foundation for considering Teal.
 
@@ -94,7 +93,7 @@ Green is ecology, psychological safety, consensus and pro-consumerism. Just as i
 
 Aventurine is conscious work on what is ethical in green and what is not. What is ethical in orange and what is not. And so on. So it's not about borders between levels and agreeing levels between eachother, but balance within each level.
 
-Teal is paradigm shift from classical and progressive organizations to holocracy, evolutionary goal or employee ownership.
+Teal is paradigm shift from traditionally managed organizations and progressive organizations to holocracy, evolutionary goal or employee ownership.
 
 
 ## Aventurine Organization: Practical applications
@@ -124,7 +123,7 @@ Uses different levels as tools, without preaching superiority of particular leve
 
 ## Aventurine as a public educational space
 
-I believe that forms like Teal or Aventurine in organizational context should serve public, not as a private trademark.
+I believe that forms like Aventurine in organizational context should serve public.
 
 Therefore, I'm publishing above content, definition of aventurine, aventurine level and aventurine organization in multiple languages as common good, made available for general use with attribution to the author through Creative Commons Attribution (© Sebastian Rudnicki CC BY 4.0).
 
@@ -133,7 +132,7 @@ Therefore, I'm publishing above content, definition of aventurine, aventurine le
 
 Sebastian Rudnicki works on the boundaries of organizations, structures and business. His approach evolved through years of creative work between early adopter and early majority adoption stages, and business audits. From observation how organizations funcion, where they hit invisible walls and how models do not translate to reality.
 
-Sebastian Rudnicki was first to describe Aventurine in 2026 as a solution to chasm of low successful adoption rate between, functioning internally teal, classical and progerssive organizations, as a separate level to be at, rather than revolution.
+Sebastian Rudnicki was first to describe Aventurine in 2026 as a solution to chasm of low successful adoption rate between, functioning internally teal, traditionally managed and progerssive organizations, as a separate level to be at, rather than revolution.
 
 ___
 Strona: © Sebastian Rudnicki
