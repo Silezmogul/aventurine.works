@@ -1,6 +1,9 @@
 ---
 title: Aventurine.works
 lang: en
+description: "Aventurine is a distinct, missing level in organizational development theory addressing post-Green ethical and structural tensions, independent of Teal adoption."
+og_description: "Aventurine: a missing post-Green level for ethical structure and accountability - independent of Teal adoption."
+schema_description: "Aventurine is a missing post-Green level in organizational development theory that restores ethical clarity around power, hierarchy, and accountability, independent of Teal adoption."
 ---
 
 # The missing link
