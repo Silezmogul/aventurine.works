@@ -84,7 +84,9 @@ Therefore, not by accident, aventurine in context of an organization is to me a 
 
 Aventurine, as a level, I see before teal, inspired by Reinventing Organizations, AQAL or Spiral Dynamics. It describes a level and approach for stability, which is a foundation for considering Teal.
 
-Aventurine is not just about using different levels as Yellow level describes. It is not about employer ownership, nor it defines "evolutionary purpose". Aventurine works out the constructive and ethical boundary of each naturally functioning levels as tools.
+Aventurine is not just about using different levels as Yellow level describes. It is not about employer ownership, nor it defines "evolutionary purpose". 
+
+Aventurine works out the constructive and ethical boundary of each naturally functioning levels as tools.
 
 
 ## Green, Aventurine, and Teal: Comparing organizational levels
