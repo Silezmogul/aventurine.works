@@ -10,6 +10,11 @@ permalink: pretty
 author: Sebastian Rudnicki
 og_image: /assets/og.png
 
+# Schema.org disambiguation (additional metadata only)
+disambiguating_description: "Educational framework in organizational development theory."
+about_topics: "organizational development theory|developmental theory|organizational ethics|organizational design|organizational governance|accountability|authority|organizational structure|Green level|Teal organizations"
+keywords: "organizational development, organizational development theory, developmental theory, organizational design, organizational ethics, accountability, authority, organizational structure, governance, culture"
+
 theme: aventurine-theme
 
 plugins:
