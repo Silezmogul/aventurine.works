@@ -9,6 +9,7 @@ timezone: Europe/Warsaw
 permalink: pretty
 author: Sebastian Rudnicki
 og_image: /assets/og.png
+og_image_alt: "Aventurine.works - missing organizational level"
 
 # Schema.org disambiguation (additional metadata only)
 disambiguating_description: "Educational framework in organizational development theory."
