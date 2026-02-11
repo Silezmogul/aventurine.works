@@ -19,10 +19,6 @@ theme: aventurine-theme
 
 plugins:
   - jekyll-sitemap
-  - jekyll-feed
-
-feed:
-  path: feed.xml
 
 defaults:
   - scope:
