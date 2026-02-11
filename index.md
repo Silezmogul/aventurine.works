@@ -1,5 +1,5 @@
 ---
-title: Aventurine.works
+title: Aventurine
 lang: en
 description: "Aventurine is a distinct, missing level in organizational development theory emerging after Green to resolve tensions, without Teal adoption challenges."
 og_description: "Aventurine: a missing organizational level after Green; resolves tensions and prevents ethical boundary overreach without Teal challenges."
@@ -21,26 +21,26 @@ teaches:
 
 # Aventurine: The Missing Level in Organizational Development Theory
 
-Since the pubication of "Reinventing Organizations" by Frederic Laloux, 12 years already passed. During this time, Teal became widely known and strong term. But it mainly exists in "I heard about it, it's not for me" plane. Because it either is about forfeiting ownership, or the ammount of stories how things failed during the adoption.
+Since the publication of "Reinventing Organizations" by Frederic Laloux, 12 years already passed. During this time, Teal became widely known and strong term. But it mainly exists in "I heard about it, it's not for me" plane. Because it either is about forfeiting ownership, or the amount of stories how things failed during the adoption.
 
-It is true that teal is not for everyone. It is true that Teal has low adoption success rate. But I think the issue is entirely different.
+It is true that teal is not for everyone. It is true that Teal has low adoption success rate. But the issue is entirely different.
 
-"Reinventing Organizations" ammong others talks about teal. But only teal was promoted to earn its place in the mainstream. Even if earlier stages had more fancy names, the term, branding would be solved but the low success rate not. Adoption of teal itself is the issue. Individual or the organization does not have to strive be teal to benefit from the model. Teal is only a point on it.
+"Reinventing Organizations" among others talks about teal. But only teal was promoted to earn its place in the mainstream. Even if earlier stages had more fancy names, the term, branding would be solved but the low success rate not. Adoption of teal itself is the issue. Individual or the organization does not have to strive be teal to benefit from the model. Teal is only a point on it.
 
-That's why low success rate in Teal adoption and its bad general opinion is due to a missing link. A link that is "the type" of majority, that is pleasant to identify with, that does not change organizations but leps make less costly mistakes, that fixes instead of adding more things to fix.
+That's why low success rate in Teal adoption and its bad general opinion is due to a missing link. A link that is "the type" of majority, that is pleasant to identify with, that does not change organizations but helps make less costly mistakes, that fixes instead of adding more things to fix.
 
 
 ## Different interpretations of teal in practice
 
 Teal in organizational sense is widely (not by definition) understood as departure from ownership, hierarchy and reaching quotas.
 
-In practice, teal mens different things for different people. 
+In practice, teal means different things for different people. 
 
 - For some people it's an expensive experiment, they tried to implement it and lost in the process.
 - For some people it's an "imperfect ideal", sounds good in theory but it's not sticking in practice.
 - For some people it's an argument to do what works. Because it works for them. To not do it in a way they could not work.
 - For some people it's an organizational change that was not a part of a discussion during hiring process and earlier years of work.
-- For some people it's an unfulfilled promise. Disappointment and pain steming from hierarchies that emerged anyway, winning loudest arguments, personal interests, or lack of commitment. 
+- For some people it's an unfulfilled promise. Disappointment and pain stemming from hierarchies that emerged anyway, winning loudest arguments, personal interests, or lack of commitment. 
 
 Past these 12 years Teal became a term to be avoided.
 
@@ -49,40 +49,40 @@ Past these 12 years Teal became a term to be avoided.
 
 Teal attracts, being interpreted as an ideal.
 
-Past these years I obzerved how we've been fed and we fed each other definitions of teal as differenitator from other forms of organizations.
+Past these years I observed how we've been fed and we fed each other definitions of teal as differentiator from other forms of organizations.
 
 Departure from hierarchy and setting evolutionary goal became food for chaos, unhealthy behaviors and loss.
 
-That's why I think that we first need to focus on not making mistakes within traditionally managed organizations.
+The base is learning to use traditionally managed organizations responsibly, with fewer losses and failure modes.
 
-This means abbong others:
+This means among others:
 Internal competition without pushing.
 Gain without greed.
-Culture without tabu.
+Culture without taboo.
 Codecisiveness without paradox of unending consensus.
-Ecology without it being used as mechanism of oppression, like double standards in fossil fuel/energy regulatios.
+Ecology without it being used as mechanism of oppression, like double standards in fossil fuel/energy regulations.
 
 Focus on the balance of **boundary** of the individual level, at each level (not across levels) is the missing link.
 
 Without that missing link, adoption of teal implodes. Without that missing link, traditionally managed organizations continue to make the same mistakes.
 
-The work on that boundary, balance of use of all already fuctioning levels I call Aventurine.
+The work on that boundary, balance of use of all already functioning levels I call Aventurine.
 
-## The origin of the name Aventurine 
+## The origin of the name Aventurine in organizational context
 
-Aventurine comes from italian *a ventura* or *all'avventura", referring to an adventure. Refers to an accidental discovery of a shining form of glass that resulted from mixing copper chips with glass.
+Aventurine (aventurine glass / aventurescence) traces back to the Italian expression "a ventura" ("by chance"), associated with an accidental discovery of a distinctive sparkling effect in glass made with metallic inclusions.
 
-Aventurization is the name for one of the effects how stones and glass shine with multiple reflections. Aventurine is also a form of quarts which flickers through the same mechanism. It can be found in multiple colors, also yellow.
+Aventurine is also a form of quartz which flickers through the same distinct mechanism. It can be found in multiple colors, also yellow.
 
-Teal is a symbol of organizational change. Stone is a symbol of unchanginess or asymbol of organization that does not have to change.
+Teal is a symbol of organizational change. Stone is a symbol of unchangingness or a symbol of organization that does not have to change.
 
 Aventuric flicker means shining of individual flakes in a noble way, in different colors, in the unchanging stone.
 
-Therefore, not by accident, aventurine in context of an organization is to me a noble, colorful, balanced flicker and happiness of people within, which, like an eventurine stone, does not have to change to something it is not, to shine together.
+Therefore, not by accident, deliberately, aventurine in context of an organization is a noble, colorful, balanced flicker and happiness of people within, which, like an aventurine stone, does not have to change to something it is not, to shine together.
 
-## Aventurine for traditionally managed organizations, befere considering teal
+## Aventurine for traditionally managed organizations, before considering teal
 
-Aventurine, as a level, I see before teal, inspired by Reinventing Organizations, AQAL or Spiral Dynamics. It describes a level and approach for stability, which is a foundation for considering Teal.
+Aventurine, as a level, positions itself before teal, inspired by Reinventing Organizations, AQAL or Spiral Dynamics. It describes a level and approach for stability, which is a foundation for considering Teal.
 
 Aventurine is not just about using different levels as Yellow level describes. It is not about employer ownership, nor it defines "evolutionary purpose". 
 
@@ -132,12 +132,12 @@ Therefore, I'm publishing above content, definition of aventurine, aventurine le
 
 ## About the author
 
-Sebastian Rudnicki works on the boundaries of organizations, structures and business. His approach evolved through years of creative work between early adopter and early majority adoption stages, and business audits. From observation how organizations funcion, where they hit invisible walls and how models do not translate to reality.
+Sebastian Rudnicki works on the boundaries of organizations, structures and business. His approach evolved through years of creative work between early adopter and early majority adoption stages, and business audits. From observation how organizations function, where they hit invisible walls and how models do not translate to reality.
 
-Sebastian Rudnicki was first to describe Aventurine in 2026 as a solution to chasm of low successful adoption rate between, functioning internally teal, traditionally managed and progerssive organizations, as a separate level to be at, rather than revolution.
+Sebastian Rudnicki was first to describe Aventurine in 2026 as a solution to chasm of low successful adoption rate between, functioning internally teal, traditionally managed and progressive organizations, as a separate level to be at, rather than revolution.
 
 ___
-Strona: © Sebastian Rudnicki
-Autor: © Sebastian Rudnicki
-Licencja: Creative Commons Attribution 4.0 (CC BY 4.0)
-AuThe author reserves the right to further develop and modify the content.
+Page: © Sebastian Rudnicki
+Author: © Sebastian Rudnicki
+Licence: Creative Commons Attribution 4.0 (CC BY 4.0)
+The author reserves the right to further develop and modify the content.
